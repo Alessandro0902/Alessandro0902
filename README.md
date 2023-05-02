@@ -8,7 +8,7 @@ Je suis actuellement en B2 informatique à Lyon Ynov campus et je me prépare à
 
 ## Compétences
 
-Langages de programmation : JavaScript, Python, PHP, Java, Golang.
+Langages de programmation : JavaScript, Python, PHP, Java, Golang.   
 Connaissances en infrastructure cloud et cybersécurité.
 
 ## Motivation
