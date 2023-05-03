@@ -1,15 +1,29 @@
-### Hi there 👋
-
-Bonjour, je m'appelle Alessandro Dell'Oso et je suis étudiant en B2 informatique à Lyon Ynov campus. J'ai une grande passion pour l'informatique et je suis très motivé pour apprendre et développer mes compétences dans ce domaine.
+### Bonjour 👋,
+Je m'appelle Alessandro Dell'Oso et je suis étudiant en B2 informatique à Lyon Ynov campus. J'ai une grande passion pour l'informatique et je suis très motivé pour apprendre et développer mes compétences dans ce domaine.
 
 ## Parcours académique
 
 Je suis actuellement en B2 informatique à Lyon Ynov campus et je me prépare à poursuivre mes études en B3 infrastructure et SI ainsi qu'en master infra cloud et cybersécurité. Mon parcours académique est axé sur l'apprentissage des technologies de pointe et sur l'application pratique de mes connaissances.
 
-## Compétences
 
-Langages de programmation : JavaScript, Python, PHP, Java, Golang.   
-Connaissances en infrastructure cloud et cybersécurité.
+Connect with me:
+username
+username
+Languages and Tools:
+arduino
+csharp
+css3
+figma
+git
+go
+html5
+javascript
+linux
+mariadb
+mysql
+php
+python
+unity
 
 ## Motivation
 
