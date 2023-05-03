@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Bonjour, je m'appelle Alessandro Dell'Oso et je suis étudiant en B2 informatique à Lyon Ynov campus. J'ai une grande passion pour le développement informatique et je suis très motivé pour apprendre et développer mes compétences dans ce domaine.
+Bonjour, je m'appelle Alessandro Dell'Oso et je suis étudiant en B2 informatique à Lyon Ynov campus. J'ai une grande passion pour l'informatique et je suis très motivé pour apprendre et développer mes compétences dans ce domaine.
 
 ## Parcours académique
 
